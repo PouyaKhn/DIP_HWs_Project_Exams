@@ -6,7 +6,7 @@ This repository contains my codes and Solutions for HomeWorks, Exams, and Final 
 
 ## HomeWorks
 
-[[Questions]](HW1/HW1_Questions.pdf) [[Solutions]](HW1/Solutions/) [[Technical Report]](HW1/Report/report_HW1.pdf)
+[[Questions]](HW1/HW1_Questions.pdf) [[Solutions]](HW1/Solutions) [[Technical Report]](HW1/Report/report_HW1.pdf)
 
 ## Exams
 
