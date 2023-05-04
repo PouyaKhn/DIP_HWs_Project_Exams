@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/repo-size/PouyaKhn/DIP_HWs_Project_Exams)
 
 # Digital Image Processing Course Codes and Solutions
-This repository contains my codes and Solutions for HomeWorks, Exams, and Final Project of Digital Image Processing course held at Sharif University of Technology (SUT) by Prof. [Mansour Jamzad](https://scholar.google.com/citations?user=oKz2WAkAAAAJ&hl=en) in Fall 2021.
+This repository contains my codes and Solutions for HomeWorks, Exams, and Final Project of Digital Image Processing course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Mansour Jamzad](https://scholar.google.com/citations?user=oKz2WAkAAAAJ&hl=en) in Fall 2021.
 
 ## HomeWorks
 
